@@ -9,6 +9,7 @@ body {
     );
   
     padding: 15px 20px;
+    border-radius: 15px;
   }
   h1 {
     color: #006ec5;
@@ -44,6 +45,7 @@ body {
     position: relative;
     display: block;
     margin: 0 auto;
+    border-radius: 60px;
   
     background: linear-gradient(
       93.1deg,
